@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{86DAF2BC-451A-4627-8689-F44AAE6F5E7B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Kadai01_HelloCSharp/Program.cs">
+    <Files>
+      <File FileName="Kadai01_HelloCSharp/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Kadai01_HelloCSharp" expanded="True">
+            <Node name="Kadai01_HelloCSharp" expanded="True">
+              <Node name="Properties" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Kadai01__HelloCSharp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

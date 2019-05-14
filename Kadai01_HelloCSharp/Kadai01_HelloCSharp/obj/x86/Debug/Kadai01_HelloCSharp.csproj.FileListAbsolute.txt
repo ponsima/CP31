@@ -1,0 +1,6 @@
+/Users/masato/Projects/CP32/Kadai01_HelloCSharp/Kadai01_HelloCSharp/bin/Debug/Kadai01_HelloCSharp.exe
+/Users/masato/Projects/CP32/Kadai01_HelloCSharp/Kadai01_HelloCSharp/bin/Debug/Kadai01_HelloCSharp.pdb
+/Users/masato/Projects/CP32/Kadai01_HelloCSharp/Kadai01_HelloCSharp/obj/x86/Debug/Kadai01_HelloCSharp.csprojAssemblyReference.cache
+/Users/masato/Projects/CP32/Kadai01_HelloCSharp/Kadai01_HelloCSharp/obj/x86/Debug/Kadai01_HelloCSharp.csproj.CoreCompileInputs.cache
+/Users/masato/Projects/CP32/Kadai01_HelloCSharp/Kadai01_HelloCSharp/obj/x86/Debug/Kadai01_HelloCSharp.exe
+/Users/masato/Projects/CP32/Kadai01_HelloCSharp/Kadai01_HelloCSharp/obj/x86/Debug/Kadai01_HelloCSharp.pdb
